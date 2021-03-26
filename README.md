@@ -15,3 +15,8 @@ Contributions are welcome and desired.  Students following the tutorials on Yout
 ## Requests for New Videos or On the Whiteboard videos
 
 Please use issues to suggest a tutorial video or On the Whiteboard video.  Use the Video Request or Whiteboard Request labels to provide proper tracking.
+
+## Youtube Lists
+[Apprentice List] (https://bit.ly/397jq0s)
+
+[Whiteboard Videos] (https://bit.ly/3cmwh0P)
